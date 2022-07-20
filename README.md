@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chykesure
+- 👀 I’m interested in apis and web fullstack development
+- 🌱  I’m an expert in api s and chatbot development
+- 💞️ I’m looking to collaborate on ... api's, automations and chatbot also in web development
+- 📫 How to reach me ...polycarpchike@gmail.com
